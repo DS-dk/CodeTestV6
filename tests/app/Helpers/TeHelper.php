@@ -8,6 +8,7 @@ use DTApi\Models\Language;
 use DTApi\Models\UserMeta;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
+use PHPUnit\Framework\TestCase;
 
 class TeHelper
 {
